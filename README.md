@@ -25,9 +25,9 @@ I hope to explore Scala, Elm, Clojure and other web technologies
 - Note taking app
 
 ### My latest ramblings
-- [Deploy deno with Github Actions](https://blog.rongying.co/posts/2020/08/building-a-cicd-pipeline-with-github/)
-- [Learning Flutter - Implicit Animations](https://blog.rongying.co/posts/2020/07/learning-flutter---implicit-animations/)
-- [I moved to 11ty](https://blog.rongying.co/posts/2020/07/i-moved-to-11ty/)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ### Random facts
 - ⛩ Love travelling
