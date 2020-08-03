@@ -26,6 +26,11 @@ I hope to explore Scala, Elm, Clojure and other web technologies
 
 ### My latest ramblings
 <!-- BLOG-POST-LIST:START -->
+- [Deploy deno with Github Actions](https://blog.rongying.co/posts/2020/08/Building-a-CICD-Pipeline-with-Github/)
+- [Learning Flutter - Implicit Animations](https://blog.rongying.co/posts/2020/07/Learning-Flutter---Implicit-Animations/)
+- [I moved to 11ty](https://blog.rongying.co/posts/2020/07/I-moved-to-11ty/)
+- [Building a Single-Spa](https://blog.rongying.co/posts/2020/06/Building-a-Single-Spa/)
+- [Revisiting Go](https://blog.rongying.co/posts/2020/06/Revisiting-Go/)
 <!-- BLOG-POST-LIST:END -->
 
 
