@@ -41,6 +41,9 @@ I hope to explore Scala, Elm, Clojure and other web technologies
 [Blog](https://rongying.co),
 [LinkedIn](https://sg.linkedin.com/in/rongyingkoh)
 
+## Wakatime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **kohrongying/kohrongying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -57,3 +60,4 @@ TODO
 clean up the table
 find a way to pull latests posts from blog
 -->
+
