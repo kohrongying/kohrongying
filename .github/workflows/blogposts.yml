@@ -13,6 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Get RSS Feed
+        uses: kohrongying/readme-the-rss@master
         with:
-          feed_list: "https://blog.rongying.co/feed.xml"
+          feed_url: https://blog.rongying.co/feed.xml
+          count: 6 # default 5
+      - name: Commit file changes
+        run: |
+            git config --global user.name 'kohrongying'
+            git config --global user.email 'kohrongying@gmail.com'
+            git add .
+            git diff --quiet --cached || git commit -m "Update README"    
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
