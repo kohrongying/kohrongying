@@ -17,14 +17,12 @@ jobs:
         uses: kohrongying/readme-the-rss@master
         with:
           feed_url: https://blog.rongying.co/feed.xml
-          count: 6 # default 5
-      - name: Commit file changes
-        run: |
-            git config --global user.name 'kohrongying'
-            git config --global user.email 'kohrongying@gmail.com'
-            git add .
-            git diff --quiet --cached || git commit -m "Update README"    
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+          count: 5
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          author_name: kohrongying
+          author_email: kohrongying@gmail.com
+          message: 'Update readme'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
