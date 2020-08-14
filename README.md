@@ -26,11 +26,11 @@ I hope to explore Scala, Elm, Clojure and other web technologies
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [Learning Flutter](https://blog.rongying.co/posts/2020/08/Learning-Flutter/)
 - [README-the-RSS](https://blog.rongying.co/posts/2020/08/A-Github-Action-for-my-Blog-RSS-Feed/)
 - [Created an IG filter with PickerUI!](https://blog.rongying.co/posts/2020/08/Building-an-IG-filter-with-PickerUI/)
 - [Deploy deno with Github Actions](https://blog.rongying.co/posts/2020/08/Building-a-CICD-Pipeline-with-Github/)
 - [Learning Flutter - Implicit Animations](https://blog.rongying.co/posts/2020/07/Learning-Flutter---Implicit-Animations/)
-- [I moved to 11ty](https://blog.rongying.co/posts/2020/07/I-moved-to-11ty/)
 <!-- BLOGPOSTS:END -->
 
 ### Random facts
