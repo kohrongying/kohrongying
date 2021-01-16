@@ -1,6 +1,6 @@
 # <div align="center">Hey wassup 👊</div>
 <div align="center">
-<a href="https://rongying.co">Blog</a> &middot; <a href="https://twitter.com/RongRunBuild">Twitter</a> &middot; <a href="https://sg.linkedin.com/in/rongyingkoh">LinkedIn</a>
+<a href="https://blog.rongying.co">Blog</a> &middot; <a href="https://twitter.com/RongRunBuild">Twitter</a> &middot; <a href="https://sg.linkedin.com/in/rongyingkoh">LinkedIn</a>
 </div>
 
 
@@ -22,10 +22,8 @@ I hope to explore Scala, Elm, Clojure and other web technologies
 
 
 ### What I'm working On
-- [ ] Daily UI challenge x Flutter on [codepen](https://codepen.io/collection/nGYxNN)
-- [ ] Note taking app
-- [x] [Haikyuu color palette](https://github.com/kohrongying/hq-palette)
-- [x] [Variable fonts primer](https://github.com/kohrongying/variable-fonts-primer)
+- [x] Daily UI challenge x Flutter on [codepen](https://codepen.io/collection/nGYxNN)
+- [x] [httpbin](https://github.com/kohrongying/httpbin)
 
 
 ### My latest ramblings
@@ -36,7 +34,7 @@ I hope to explore Scala, Elm, Clojure and other web technologies
 - [Variable Fonts and Web Components](https://blog.rongying.co/posts/2020/08/Variable-Fonts-and-Web-Components/)
 - [Learning Flutter](https://blog.rongying.co/posts/2020/08/Learning-Flutter/)
 <!-- BLOGPOSTS:END -->
-Read more at [blog.rongying.co](https://blog.rongying.co)
+Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my daily TIL [here](https://todayilearn.rongying.co)
 
 
 ### Random facts
