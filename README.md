@@ -52,7 +52,7 @@ Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my 
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -60,11 +60,11 @@ Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my 
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.63% 
-SQL                      3 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   29.2% 
-Terraform                2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.61% 
-Ruby                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.48% 
-Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.47%
+Other                    6 hrs 14 mins       ██████████████░░░░░░░░░░░   56.4% 
+Terraform                2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.36% 
+SQL                      1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87% 
+Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.74% 
+Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
 
 ```
 
