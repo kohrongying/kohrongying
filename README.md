@@ -52,7 +52,7 @@ Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my 
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -60,11 +60,11 @@ Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my 
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Bash                     1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   24.77% 
-Kotlin                   1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.91% 
-HCL                      1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   20.32% 
-Shell Script             38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.73% 
-YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.72%
+Bash                     1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   39.13% 
+HCL                      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   22.42% 
+Shell Script             51 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.72% 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.42% 
+Kotlin                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.16%
 
 ```
 
@@ -81,7 +81,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/03/2022 15:12:48 UTC
+ Last Updated on 19/03/2022 15:13:23 UTC
 <!--END_SECTION:waka-->
 
 <!--
