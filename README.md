@@ -52,7 +52,7 @@ Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my 
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -60,11 +60,9 @@ Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my 
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Scala                    1 hr 52 mins        ██████████████████░░░░░░░   73.92% 
-Shell Script             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.72% 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
-Kotlin                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.66% 
-Makefile                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
+Java                     2 hrs 31 mins       ██████████████████░░░░░░░   74.76% 
+Markdown                 49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.45% 
+Scala                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
 
 ```
 
@@ -81,7 +79,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2022 15:13:32 UTC
+ Last Updated on 23/04/2022 15:14:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
