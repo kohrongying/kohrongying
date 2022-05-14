@@ -52,7 +52,7 @@ Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my 
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,11 +62,11 @@ Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my 
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Terraform                4 hrs 6 mins        ██████████████████████░░░   88.46% 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
-Shell Script             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.75% 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+Terraform                6 hrs 34 mins       ████████████████░░░░░░░░░   64.26% 
+Bash                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   10.01% 
+Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
+Java                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.85% 
+Shell Script             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
 
 ```
 
@@ -83,7 +83,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2022 15:14:31 UTC
+ Last Updated on 14/05/2022 15:13:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
