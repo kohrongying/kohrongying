@@ -54,7 +54,7 @@ Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -62,11 +62,11 @@ Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my 
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-HCL                      22 mins             █████████████░░░░░░░░░░░░   51.69% 
-Terraform                10 mins             ██████░░░░░░░░░░░░░░░░░░░   24.66% 
-GitIgnore file           5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
-textmate                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.17% 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
+Markdown                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.53% 
+Python                   52 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.41% 
+textmate                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85% 
+Scala                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
+Text                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.28%
 
 ```
 
@@ -83,7 +83,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2022 15:13:23 UTC
+ Last Updated on 25/06/2022 15:12:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
