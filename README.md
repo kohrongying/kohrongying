@@ -52,7 +52,7 @@ Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my 
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-854%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,11 +62,11 @@ Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my 
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Scala                    2 hrs 35 mins       ████████████████████░░░░░   83.04% 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.18% 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
-Makefile                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91% 
-Shell Script             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
+Scala                    2 hrs 7 mins        ███████████████████░░░░░░   79.41% 
+Properties               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.23% 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55% 
+Shell Script             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47%
 
 ```
 
@@ -83,7 +83,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2022 15:15:04 UTC
+ Last Updated on 01/10/2022 15:15:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
