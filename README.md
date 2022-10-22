@@ -54,7 +54,7 @@ Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-863%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -79,7 +79,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2022 15:16:32 UTC
+ Last Updated on 22/10/2022 15:16:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
