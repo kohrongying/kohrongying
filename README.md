@@ -66,20 +66,20 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in Python** 
 
 ```text
-JavaScript               23 repos            ██████░░░░░░░░░░░░░░░░░░░   27.38% 
-Python                   22 repos            ██████░░░░░░░░░░░░░░░░░░░   26.19% 
-HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
-CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.95% 
-TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.95%
+Python                   24 repos            ███████░░░░░░░░░░░░░░░░░░   27.91% 
+JavaScript               23 repos            ██████░░░░░░░░░░░░░░░░░░░   26.74% 
+HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
+CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.81% 
+TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.81%
 
 ```
 
 
 
- Last Updated on 10/12/2022 15:11:32 UTC
+ Last Updated on 17/12/2022 15:10:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
