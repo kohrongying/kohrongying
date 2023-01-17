@@ -28,11 +28,11 @@ I hope to explore Scala, Elm, Clojure and other web technologies
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [Refactoring Turtmail Part 2](https://blog.rongying.co/posts/2022/12/Refactoring-Turtmail-Part-2/)
 - [sg to us](https://blog.rongying.co/posts/2022/12/sg-to-us/)
+- [My Tech Roundup for 2022](https://blog.rongying.co/posts/2022/12/2022-Tech-Roundup/)
 - [Committing secrets into Github](https://blog.rongying.co/posts/2022/12/Committing-secrets/)
 - [Generating a Data Dictionary](https://blog.rongying.co/posts/2022/04/Generating-a-Data-Dictionary/)
-- [Refactoring turtmail](https://blog.rongying.co/posts/2022/01/Refactoring-turtmail/)
-- [Pipedream Telegram to Notion in an hour](https://blog.rongying.co/posts/2021/11/Pipedream-Telegram-to-Notion-in-an-hour/)
 <!-- BLOGPOSTS:END -->
 Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my daily TIL [here](https://todayilearn.rongying.co)
 
