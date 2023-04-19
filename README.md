@@ -28,7 +28,7 @@ I hope to explore Scala, Elm, Clojure and other web technologies
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
-- [sg to us](https://blog.rongying.co/posts/2023/04/Living-by-myself/)
+- [Living by me](https://blog.rongying.co/posts/2023/04/Living-by-myself/)
 - [Refactoring Turtmail Part 2](https://blog.rongying.co/posts/2022/12/Refactoring-Turtmail-Part-2/)
 - [sg to us](https://blog.rongying.co/posts/2022/12/sg-to-us/)
 - [My Tech Roundup for 2022](https://blog.rongying.co/posts/2022/12/2022-Tech-Roundup/)
