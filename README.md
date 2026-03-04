@@ -6,8 +6,8 @@
 
 ### About me
 * Rong Ying (Pronoun: She 👩‍💻)
-* I'm a Software Developer from Singapore at ThoughtWorks SG 🇸🇬
-* Passionate about the web 🕸
+* I'm a Software Developer from Singapore, worked at Amazon 🇺🇸, ThoughtWorks SG 🇸🇬
+* Passionate about all things code!
 
 
 #### Where I am currently at
@@ -18,10 +18,12 @@
 |DevOps|![GA](https://img.shields.io/badge/Github_Actions-orange?style=for-the-badge&logo=github) ![CircleCi](https://img.shields.io/badge/CircleCI-e6ae00?style=for-the-badge&logo=circleci) ![BambooCI](https://img.shields.io/badge/Bamboo_CI-orange?style=for-the-badge&logo=bamboo) ![Docker](https://img.shields.io/badge/Docker-e6ae00?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-orange?style=for-the-badge&logo=terraform) |
 |Cloud Platforms| ![GCP](https://img.shields.io/badge/GCP-41754E?style=for-the-badge&logo=googlecloud) ![AWS](https://img.shields.io/badge/AWS-green?style=for-the-badge&logo=amazonaws) ![GCP](https://img.shields.io/badge/Digital_ocean-41754E?style=for-the-badge&logo=digitalocean&logoColor=white) |
 
-I hope to explore Scala, Elm, Clojure and other web technologies
+I love working on green field projects and hope to explore AI engineering, building chatbots and other workflows.
 
 
 ### What I'm working On
+- [ ] WhenPoopBot - A telegram bot to track your excretions! With a PoopWrapped moment
+- [ ] An internal tool to digitalize my parents' work
 - [x] Daily UI challenge x Flutter on [codepen](https://codepen.io/collection/nGYxNN)
 - [x] [httpbin](https://github.com/kohrongying/httpbin)
 
