@@ -30,11 +30,11 @@ I love working on green field projects and hope to explore AI engineering, build
 
 ### My latest ramblings
 <!-- BLOGPOSTS:START -->
+- [Creating a Github Pull Request just from a Telegram message](https://blog.rongying.co/posts/2026/08/Creating-a-Github-Pull-Request-just-from-a-Telegram-message/)
+- [Building a website downdetector using Supabase](https://blog.rongying.co/posts/2026/05/Building-a-website-downdetector-using-Supabase/)
+- [Vibecoding my everything-tracker](https://blog.rongying.co/posts/2026/04/Vibecoding-my-everything-tracker/)
+- [Documenting poop frequency for health reasons](https://blog.rongying.co/posts/2026/02/Documenting-poop-frequency-for-health-reasons/)
 - [Living by me](https://blog.rongying.co/posts/2023/04/Living-by-myself/)
-- [Refactoring Turtmail Part 2](https://blog.rongying.co/posts/2022/12/Refactoring-Turtmail-Part-2/)
-- [sg to us](https://blog.rongying.co/posts/2022/12/sg-to-us/)
-- [My Tech Roundup for 2022](https://blog.rongying.co/posts/2022/12/2022-Tech-Roundup/)
-- [Committing secrets into Github](https://blog.rongying.co/posts/2022/12/Committing-secrets/)
 <!-- BLOGPOSTS:END -->
 Read more at [blog.rongying.co](https://blog.rongying.co). I also blog about my daily TIL [here](https://todayilearn.rongying.co)
 
